@@ -1,7 +1,26 @@
+body {
+    background-color: #000;
+}
+
+/* Navbar */
+
 .navbar {
     background-color: #8000ff;
 }
 
+.navbar a {
+    color: #fff;
+}
+
 .navbar-item {
     text-align: right;
+}
+
+.about-section {
+    color: #fff;
+    padding: 3%, 15%, 5%;
+}
+
+.about-ruler {
+    border-top: 2px solid #fff;
 }
