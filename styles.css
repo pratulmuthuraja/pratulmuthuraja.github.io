@@ -1,3 +1,7 @@
-.nav-item {
+body {
+    background-color: black;
+}
+
+.navbar-item {
     text-align: right;
 }
